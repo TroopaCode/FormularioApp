@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FormularioApp</string>
+
+    <!-- Hint de TextInputEdit -->
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_numero">Número Telefónico</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="boton_siguiente">Siguiente</string>
+
+
+    <!-- Campos de confirmar Datos (Activity 2) -->
+    <string name="texto_confirmar_datos">Confirmar Datos</string>
+    <string name="texto_fecha">Fecha de Nacimiento: </string>
+    <string name="texto_tel">Teléfono: </string>
+    <string name="texto_email">Email: </string>
+    <string name="texto_descripcion">Descripción: </string>
+    <string name="boton_editar_campos"> Editar Campos </string>
+
+    <!-- Valores Activity 2 -->
+    <string name="nombre">nombre</string>
+    <string name="fecha">fecha</string>
+    <string name="telefono">telefono</string>
+    <string name="email">email</string>
+    <string name="descripcion">descripcion</string>
+
+</resources>

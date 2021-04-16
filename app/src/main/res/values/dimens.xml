@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tamaños Activity Main -->
+    <dimen name="size_campo_nombre">16sp</dimen>
+    <dimen name="size_campo_numero">16sp</dimen>
+    <dimen name="size_campo_correo">16sp</dimen>
+    <dimen name="size_campo_descripcion">16sp</dimen>
+    <dimen name="size_campo_boton">14sp</dimen>
+
+    <!-- Tamaños Activity Confirmar Datos -->
+    <dimen name="size_campo_confirmarDatos">22sp</dimen>
+    <dimen name="size_campo_mostrar_nombre">16sp</dimen>
+    <dimen name="size_campo_mostrar_fecha">16sp</dimen>
+    <dimen name="size_campo_mostrar_telefono">16sp</dimen>
+    <dimen name="size_campo_mostrar_email">14sp</dimen>
+    <dimen name="size_campo_mostrar_descripcion">14sp</dimen>
+    <dimen name="size_campo_boton_editar">14sp</dimen>
+
+    <dimen name="size_campo_fecha">14sp</dimen>
+    <dimen name="size_campo_tel">14sp</dimen>
+    <dimen name="size_campo_email">14sp</dimen>
+    <dimen name="size_campo_desc">14sp</dimen>
+
+</resources>
